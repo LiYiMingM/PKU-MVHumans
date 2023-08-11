@@ -4,7 +4,7 @@
 
 <h1> A High-Resolution High-Detail Dataset for Human Performance Modeling and Rendering
 
-    Peking University
+    Peking University &emsp
     
 </h1>
 
