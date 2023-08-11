@@ -10,13 +10,6 @@
     Peking University
 </div>
 
-<video src="./assets/Dunhuang_fvv.mov" alt="drawing" height=200 />| <video src="./assets/Taekwondo_fvv.mov" alt="drawing" height=200 />|<video src="./assets/Kungfu_Sword_fvv.mov" alt="drawing" height=200 />
-
-| <h2 align="center"> FreeView </h2> | <h2 align="center"> Movement </h2> | <h2 align="center"> TPose </h2> |
-| :---: | :---: | :---: |
-| <video src="./assets/Dunhuang_fvv.mp4" alt="drawing" height=200 />| <video src="./assets/Taekwondo_fvv.mov" alt="drawing" height=200 />|<video src="./assets/Kungfu_Sword_fvv.mov" alt="drawing" type="video/mp4" height=200 />|
-
-
 </div>
 
 ![colored_mesh (1)](assets/HiFi-MVHumans.png)
