@@ -3,13 +3,11 @@
 <div align="center">
 
 <h1> A High-Resolution High-Detail Dataset for Human Performance Modeling and Rendering
-
-    Peking University &emsp
     
 </h1>
 
 <div>
-    Peking University &emsp;
+    Peking University
 </div>
 
 </div>
