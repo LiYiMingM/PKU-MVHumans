@@ -1,4 +1,4 @@
-![overviews](https://github.com/zhengxyun/HiFi-MVHumans/assets/98016216/333f1e16-95c3-42c1-868b-459512f1668d)![image](https://github.com/zhengxyun/HiFi-MVHumans/assets/98016216/3d5158fe-e502-40c1-b38d-b7ff634a8d2d)# HiFi-MVHumans
+# HiFi-MVHumans
 
 <div align="center">
 
