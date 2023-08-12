@@ -14,10 +14,10 @@
 
 </div>
 
-![colored_mesh (1)](assets/HiFi-MVHumans.png)
-
 ## Introduction
 - Our HiFi-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 43 sequences and totals around 8.4 million frames of recording.
+
+  ![colored_mesh (1)](assets/HiFi-MVHumans.png)
   
 - For the 1080P sequences category, the data is captured indoors in a 360-degree panoramic view roughly 6x6m with 60 calibrated Z CAM E2 cameras. It contains 36 sequences at a resolution of 1920×1080. 
 
