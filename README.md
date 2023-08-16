@@ -25,9 +25,9 @@
 
 - For the 1080P sequences category, the data is captured indoors in a 360-degree panoramic view roughly 6x6m with 60 calibrated Z CAM E2 cameras. It contains 37 sequences at a resolution of 1920×1080. 
 
-- For the 4K-Studio sequences category, the collecting environment is a uniformly lighted clean indoor stage roughly 7x7m with 56 calibrated Z CAM E2 cameras. The 12 cameras are placed regularly on an arc in front of the stage. 
+- For the 4K-Studio sequences category, the collecting environment is a uniformly lighted clean indoor stage roughly 7x7m with 56 calibrated Z CAM E2 cameras. The 12 cameras are placed regularly on an arc in front of the stage.
 
-![colored_mesh (1)](assets/overviews.png)
+  ![colored_mesh (1)](assets/overviews.png)
 
 ## Updates
 - [08/2023] We release the sample set of HiFi-MVHumans (40\% of the whole data), keeping a hidden testing set for an upcoming challenge. Stay tuned!
