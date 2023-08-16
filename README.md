@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1> A High-Detail Dataset for High-Fidelity Human Performance Modeling and Rendering
+<h1> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering
     
 </h1>
 
