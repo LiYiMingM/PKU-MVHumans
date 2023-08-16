@@ -15,13 +15,17 @@
 </div>
 
 ## Introduction
-- Our HiFi-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 44 sequences and totals around 8.4 million frames of recording.
+- Our HiFi-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 45 sequences and totals around 8.4 million frames of recording.
 
   ![colored_mesh (1)](assets/HiFi-MVHumans.png)
   
-- For the 1080P sequences category, the data is captured indoors in a 360-degree panoramic view roughly 6x6m with 60 calibrated Z CAM E2 cameras. It contains 36 sequences at a resolution of 1920×1080. 
+- We use 2 categories of datasets where the performers are in different locations and perform with different actions and clothing styles. The collecting environment is a uniformly lighted clean indoor stage.
 
-- For the 4K-Studio sequences category, the collecting environment is a uniformly lighted clean indoor stage roughly 6x6m with 56 calibrated Z CAM E2 cameras. The 12 cameras are placed regularly on an arc in front of the stage. 
+  ![colored_mesh (1)](assets/camera_position.png)
+
+- For the 1080P sequences category, the data is captured indoors in a 360-degree panoramic view roughly 6x6m with 60 calibrated Z CAM E2 cameras. It contains 37 sequences at a resolution of 1920×1080. 
+
+- For the 4K-Studio sequences category, the collecting environment is a uniformly lighted clean indoor stage roughly 7x7m with 56 calibrated Z CAM E2 cameras. The 12 cameras are placed regularly on an arc in front of the stage. 
 
 ![colored_mesh (1)](assets/overviews.png)
 
