@@ -1,4 +1,4 @@
-# HiFi-MVHumans
+# PKU-MVHumans
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 </div>
 
 ## Introduction
-- Our HiFi-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 45 sequences and totals around 8.4 million frames of recording.
+- Our PKU-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 45 sequences and totals around 8.4 million frames of recording.
 
   ![colored_mesh (1)](assets/HiFi-MVHumans.png)
   
@@ -69,7 +69,7 @@ The codebase is coming soon.
 - [ ] Conduct pilot studies on several tasks.
 
 ## Agreement
-The HiFi-MVHumans dataset is available for non-commercial research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without Tsinghua University’s prior written permission.
+The PKU-MVHumans dataset is available for non-commercial research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without Tsinghua University’s prior written permission.
 
 You agree not to reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without Peking University’s prior written permission.
 
@@ -78,7 +78,7 @@ You agree not to further copy, publish or distribute any portion of the Dataset.
 Peking University reserves the right to terminate your access to the Dataset at any time.
 
 ## License
-The HiFi-MVHumans dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The PKU-MVHumans dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 - Xiaoyun Zheng (zyun_z@stu.pku.edu.cn)
