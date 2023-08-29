@@ -5,7 +5,7 @@
 <h1> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h1>
 
 <div>
-    Peking University
+    <p> <b>Peking University</b> </p>
 </div>
 
 ![colored_mesh (1)](assets/snapshot.png)
