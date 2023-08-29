@@ -43,24 +43,29 @@ Note again that by downloading the dataset you acknowledge that you have read th
 │   ├── extrinsic.txt
 │   ├── intrinsic.txt
 │   └── videos
-├── 1080_Dance_Dunhuang_Pair_f14f15
-│   ├── extrinsic.txt
-│   ├── intrinsic.txt
-│   └── videos
-.
-.
-. 
-├── 4K_Studios_Show_Single_f18
-│   ├── extrinsic.txt
-│   ├── intrinsic.txt
-│   └── videos
+│      ├── 0.mp4
+│      ├── 1.mp4 
+│      ├── 2.mp4
+│      ├── ... 
+│      ├── 58.mp4 
+│      └── 59.mp4 
+├── 1080_...
+├── 4K_...
 └── 4K_Studios_Show_Single_f19
     ├── extrinsic.txt
     ├── intrinsic.txt
     └── videos
+      ├── 0.mp4
+      ├── 1.mp4 
+      ├── 2.mp4
+      ├── ... 
+      ├── 54.mp4 
+      └── 55.mp4 
 ```
 
 ## Benchmarks
+
+### Click to see output demo
 
 <details>
 <summary> Free-Viewpoint Videos </summary>
