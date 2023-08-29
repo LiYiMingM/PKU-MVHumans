@@ -3,7 +3,6 @@
 
 <p align="center"> 
     <div align="center"> Peking University  </div>
-    **Peking University**
     <img alt="image" src="assets/snapshot.png" center width="95%">
     <h2> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h2>
 </p>
