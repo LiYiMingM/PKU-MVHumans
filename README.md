@@ -65,6 +65,17 @@ Note again that by downloading the dataset you acknowledge that you have read th
 ## Benchmarks
 The codebase is coming soon.
 
+https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/ecdfb8f8-abd8-4edf-96fd-8d8c1a7fe8c3
+
+
+https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/94320ed9-5b07-4611-a220-ae867b04efcf
+
+
+https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/22fcdab6-385a-4843-9a75-a7bc6549056a
+
+
+
+
 ## TODO
 - [ ] Conduct pilot studies on several tasks.
 
