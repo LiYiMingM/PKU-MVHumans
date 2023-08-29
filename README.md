@@ -1,8 +1,17 @@
-<p align="center">
-    <h1 align="center">PKU-MVHumans</h1>
-    <h2 align="center">A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering</h2>
-    <img src="assets/snapshot.png" center width="95%">
-</p>
+![image](https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/4023013f-2ae7-49e4-b694-ad8f32862f67)# PKU-MVHumans
+
+<div align="center">
+<h1 align="center">PKU-MVHumans</h1>
+<h2> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h2>
+
+<div>
+    Peking University
+</div>
+
+<img src="assets/snapshot.png" center width="95%"/>
+
+</div>
+
 
 ## Introduction
 - Our PKU-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 45 sequences and totals around 8.4 million frames of recording.
@@ -53,16 +62,17 @@ Note again that by downloading the dataset you acknowledge that you have read th
 ```
 
 ## Benchmarks
-The codebase is coming soon.
 
+<details>
+<summary> Free-Viewpoint Videos </summary>
+    
 https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/ecdfb8f8-abd8-4edf-96fd-8d8c1a7fe8c3
-
-
-https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/94320ed9-5b07-4611-a220-ae867b04efcf
-
 
 https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/22fcdab6-385a-4843-9a75-a7bc6549056a
 
+https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/94320ed9-5b07-4611-a220-ae867b04efcf
+
+</details>
 
 
 
