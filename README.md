@@ -1,22 +1,8 @@
 <p align="center">
-    <img alt="image" src="assets/snapshot.png" width="300">
-    <h1 align="center">A Unified Framework for Surface Reconstruction</h1>
-    
-    <img src="assets/snapshot.png" center width="95%"/>
+    <img alt="image" src="assets/snapshot.png" center width="95%">
+    <h1 align="center">PKU-MVHumans</h1>
+    <h2> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h2>
 </p>
-
-
-<div align="center">
-<h1 align="center">PKU-MVHumans</h1>
-<h2> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h2>
-
-<div>
-    Peking University
-</div>
-
-<img src="assets/snapshot.png" center width="95%"/>
-
-</div>
 
 
 ## Introduction
