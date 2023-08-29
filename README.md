@@ -1,4 +1,10 @@
-![image](https://github.com/zhengxyun/PKU-MVHumans/assets/98016216/4023013f-2ae7-49e4-b694-ad8f32862f67)# PKU-MVHumans
+<p align="center">
+    <img alt="image" src="assets/snapshot.png" width="300">
+    <h1 align="center">A Unified Framework for Surface Reconstruction</h1>
+    
+    <img src="assets/snapshot.png" center width="95%"/>
+</p>
+
 
 <div align="center">
 <h1 align="center">PKU-MVHumans</h1>
