@@ -1,7 +1,7 @@
 <p align="center">
     <h1 align="center">PKU-MVHumans</h1>
-    <h1 align="center">A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering</h1>
-    <img src="assets/snapshot.png" center width="95%"/>
+    <h2 align="center">A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering</h2>
+    <img src="assets/snapshot.png" center width="95%">
 </p>
 
 ## Introduction
